@@ -4,7 +4,7 @@
 
 <br/>
 
-### 🔭 Current Research
+### Research
 **[AeroArgus](https://github.com/Krabs-KR/AeroArgus)**
 > **Design of an Explainable Airline Award Booking Recommendation Framework**
 >
