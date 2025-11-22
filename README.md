@@ -1,16 +1,15 @@
-## Hi there 👋
+### 🛫
+**Building automated systems for aviation data analysis.**
+*(Engineering / Data Science / Aviation)*
 
-<!--
-**Krabs-KR/Krabs-KR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
 
-Here are some ideas to get you started:
+### 🔭 Current Research
+**[AeroArgus](https://github.com/Krabs-KR/AeroArgus)**
+> **Design of an Explainable Airline Award Booking Recommendation Framework**
+>
+> An intelligent agent that monitors airline award availability 24/7 using **Time-Series Analysis (LSTM)** and **RAG (Retrieval-Augmented Generation)**.
+>
+> * *Note: Source code is private due to security & proprietary algorithms.*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
